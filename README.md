@@ -7,4 +7,4 @@ https://api.flutter.dev/flutter/widgets/StreamBuilder-class.html
 https://youtu.be/MkKEWHfy99Y
 
 ***
-<img src="README.png" width="400">
+<img src="README.png" width="600">
